@@ -16,21 +16,20 @@
 
 - a
 
-- 对于 conda 4.4.0 以后的版本:
-
-  将 export PATH="~/anaconda3/bin:$PATH" 删除
+- 对于 conda 4.4.0 以后的版本: 将 ```export PATH="~/anaconda3/bin:$PATH"``` 删除
 
   打上
-
-   . /anaconda3/etc/profile.d/conda.sh
+  ```
+  . /anaconda3/etc/profile.d/conda.sh
 
   conda activate base
+  ```
 
   即可
 
 - esc
 
-- :wq
+- ```:wq```
 
 - 关闭 terminal
 
